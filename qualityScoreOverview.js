@@ -19,7 +19,7 @@ var googleapisLib = require('@sv/googleapisLib');
 var objectLib = require('@sv/objectLib');
 
 (async function main() {
-	const sheetId = '1TopHa7dalN3Iaolz8VgtD2nkc468LcKJSSfMENk37yg';
+	const sheetId = 'INSERT YOUR SHEET ID HERE';
 
 	let filters = {
 		typeid : { '$in': [] } // typeids are populated programmatically
@@ -27,26 +27,26 @@ var objectLib = require('@sv/objectLib');
 
 	const options = {
 		fields : {
-			_id : 0,
-			updated : 1,
-			taid : 1,
-			taoptin : 1,
-			rankorder : 1,
-			description : 1,
-			phone : 1,
-			email : 1,
-			weburl : 1,
-			company : 1,
-			recid : 1,
-			hasYelp : 1,
-			hasTripAdvisor : 1,
-			hasDescription : 1,
-			typeid : 1,
-			rankid : 1,
-			rankname : 1,
-			'social.smserviceid' : 1,
-			'social.value' : 1,
-			'media.mediatype' : 1,
+			_id                      : 0,
+			updated                  : 1,
+			taid                     : 1,
+			taoptin                  : 1,
+			rankorder                : 1,
+			description              : 1,
+			phone                    : 1,
+			email                    : 1,
+			weburl                   : 1,
+			company                  : 1,
+			recid                    : 1,
+			hasYelp                  : 1,
+			hasTripAdvisor           : 1,
+			hasDescription           : 1,
+			typeid                   : 1,
+			rankid                   : 1,
+			rankname                 : 1,
+			'social.smserviceid'     : 1,
+			'social.value'           : 1,
+			'media.mediatype'        : 1,
 			'amenities_array.typeid' : 1
 		}
 	};
