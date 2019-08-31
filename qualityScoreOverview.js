@@ -2,17 +2,12 @@
  * Quality Score Listings Overview
  * 
  * Used to generate quality score overview of each listing.
+ *
+ * Reference (https://github.com/sv-jschwarz/qualityScoreOverview) for instructions.
  * 
  * @version 1.0
  * @author sv-cmswo
  * @date 05/03/2019
- **/
-
-/**
- * Instructions:
- * 1. Create new Google spreadsheet
- * 2. Update "sheetId" below with your sheet id
- * 3. Share sheet with this user: 743184255003-2tbvikqou0c38ruhrmddno3kc7hnsmfr@developer.gserviceaccount.com
  **/
 
 var googleapisLib = require('@sv/googleapisLib');
