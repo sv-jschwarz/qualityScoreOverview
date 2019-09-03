@@ -7,7 +7,7 @@ https://www.screencast.com/t/Uoq4pYYs6
 ##### Instructions:
 1. Create new blank google spreadsheet (https://docs.google.com/spreadsheets)
 2. Copy the unique ID from the URL once the sheet has been created, it looks something like this "15D3nPJZLTAHLQhXo4MSTw4WV3rYbwXlSfX8cTONWD6I"
-3. Take that ID and update the script were it says "INSERT YOUR SHEET ID HERE".
+3. Take the script: https://github.com/sv-jschwarz/qualityScoreOverview/blob/master/qualityScoreOverview.js and find the phrase "INSERT YOUR SHEET ID HERE", replace that text with your sheetid.
 4. Click the green share button in the top right corner of the Google sheet window.
 5. Click "Skip" when asked to name the sheet.
 5. Add this user account "743184255003-2tbvikqou0c38ruhrmddno3kc7hnsmfr@developer.gserviceaccount.com" and click "Send".
