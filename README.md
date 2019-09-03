@@ -6,7 +6,7 @@ https://www.screencast.com/t/Uoq4pYYs6
 
 ##### Instructions:
 1. Create new blank google spreadsheet (https://docs.google.com/spreadsheets)
-2. Copy the unique ID from the URL once the sheet has been created, it looks something like this "15D3nPJZLTAHLQhXo4MSTw4WV3rYbwXlSfX8cTONWD6I"
+2. Copy the unique ID from the URL once the sheet has been created, it looks something like this "15D3nPJZLTAHLQhXo4MSTw4WV3rYbwXlSfX8cTONWD6I" https://www.screencast.com/t/g6BJuIb1
 3. Take the script: https://github.com/sv-jschwarz/qualityScoreOverview/blob/master/qualityScoreOverview.js and find the phrase "INSERT YOUR SHEET ID HERE", replace that text with your sheetid.
 4. Click the green share button in the top right corner of the Google sheet window.
 5. Click "Skip" when asked to name the sheet.
