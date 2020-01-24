@@ -10,8 +10,11 @@ https://www.screencast.com/t/Uoq4pYYs6
 3. Take the script: https://github.com/sv-jschwarz/qualityScoreOverview/blob/master/qualityScoreOverview.js and find the phrase "INSERT YOUR SHEET ID HERE", replace that text with your sheetid.
 4. Click the green share button in the top right corner of the Google sheet window.
 5. Click "Skip" when asked to name the sheet.
-5. Add this user account "743184255003-2tbvikqou0c38ruhrmddno3kc7hnsmfr@developer.gserviceaccount.com" and click "Send".
-6. Click "Confirm" when asked if you want to share with the account above.
-7. Run the qualityScoreOverview.js script in your repl (make sure you updated your sheet id).
-8. Switch back to your Google sheet page and view your results.
-9. Share that sheet with whoever needs to view the results.
+6. On the new popup, click "Advanced" in the bottom right corner.
+7. Click "Change...", and select the "On - Anyone with the link", then "Save": https://www.screencast.com/t/jQ4pwT7jvX
+8. Then invite this email: "743184255003-2tbvikqou0c38ruhrmddno3kc7hnsmfr@developer.gserviceaccount.com": https://www.screencast.com/t/uPBeGgZwG
+9. When asked "Are you sure?" that you want to share with the email above, click "Yes".
+10. Once you've opened the doc to anyone with a link and invited the email above, click "Done".
+11. Run the qualityScoreOverview.js script in your repl (make sure you updated your sheet id).
+12. Switch back to your Google sheet page and view your results.
+13. Share that sheet url with whoever needs to view the results.
